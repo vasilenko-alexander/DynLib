@@ -9,7 +9,7 @@ compiler:
     -gcc
     -clang
 
-notifications
+notifications:
     email: false
 
 env:
